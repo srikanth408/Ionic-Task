@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
-import {serviceComponent} from 'C:/Users/srkaipu/myApp/src/app/app.service';
+import {serviceComponent} from 'C:/Users/srkaipu/Ionic-Task/Ionic-Task/src/app/app.service';
 
 @Component({
   selector: 'page-home',
